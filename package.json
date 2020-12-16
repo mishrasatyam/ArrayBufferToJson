@@ -1,10 +1,14 @@
 {
   "name": "arraybuffertojson",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "\"Converts Array Buffer to json\"",
   "main": "index.js",
   "type": "module",
-  "keywords": ["array buffer","json","array buffer to json"],
+  "keywords": [
+    "array buffer",
+    "json",
+    "array buffer to json"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
