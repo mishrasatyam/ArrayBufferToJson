@@ -12,7 +12,7 @@ npm install arraybuffertojson
 ## Usage
 
 ```node 
-import ArrayBufferToJson from 'arraybuffertojson';\
+import ArrayBufferToJson from 'arraybuffertojson';
 const json = ArrayBufferToJson(array_buffer_value);
 ```
 
