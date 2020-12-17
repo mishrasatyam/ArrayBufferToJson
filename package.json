@@ -1,6 +1,6 @@
 {
   "name": "arraybuffertojson",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "\"Converts Array Buffer to json\"",
   "main": "index.js",
   "type": "module",
